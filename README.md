@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img src="page/images/method.svg" alt="SVG Image">
+  <img src="assets/method.svg" alt="SVG Image">
 </p>
 
 </div>
