@@ -2,7 +2,7 @@
 
 # Dichotomous Diffusion Policy Optimization
 
-[Ruiming Liang\*](https://github.com/LRMbbj), [Yinan Zheng\*](https://github.com/ZhengYinan-AIR), [Kexin Zheng\*](https://air-dream.netlify.app/author/kexin-zheng/), [Tianyi Tan\*](https://github.com/0ttwhy4), [Jianxiong Li](https://facebear-ljx.github.io/), Liyuan Mao, [Zhihao Wang](https://zh1hao.wang/), Guang Chen, Hangjun Ye, [Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm), Jinqiao Wang $\dagger$, [Xianyuan Zhan](https://zhanxianyuan.xyz/) $\dagger$
+[Ruiming Liang\*](https://github.com/LRMbbj), [Yinan Zheng\*](https://github.com/ZhengYinan-AIR), [Kexin Zheng\*](https://github.com/Whiterrrrr), [Tianyi Tan\*](https://github.com/0ttwhy4), [Jianxiong Li](https://facebear-ljx.github.io/), Liyuan Mao, [Zhihao Wang](https://zh1hao.wang/), Guang Chen, Hangjun Ye, [Jingjing Liu](https://air.tsinghua.edu.cn/en/info/1046/1194.htm), Jinqiao Wang $\dagger$, [Xianyuan Zhan](https://zhanxianyuan.xyz/) $\dagger$
 
 <p align="center">
   <a href="">
